@@ -1,7 +1,7 @@
 # MIMIC-IV-AKI-Diagnosis
 Diagnosing Acute Kidney Injury, and further classifying Acute Kidney Injury types, using the MIMIC IV open-source dataset and implementing an AKI diagnosis protocol established by KDIGO.
 
-This project was completed under the direction of Dr. Ning Shang in the Kiryluk Lab of Columbia Medical School.
+This project was completed by Venkat Subramanian under the direction of Dr. Ning Shang in the Kiryluk Lab of Columbia Medical School.
 
 Research Abstract:
 
